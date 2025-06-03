@@ -10,6 +10,40 @@ This project helps **businesses, analysts, and developers** convert **raw web co
 
 This Python-based tool scrapes any publicly accessible website and summarizes its main content using a locally running LLaMA 3 model via [Ollama](https://ollama.com/). It removes non-informative noise (ads, navigation, footers) and generates a human-readable markdown summary.
 
+Great! Here's an updated **Highlights** section you can add to the top of your `README.md` to showcase the real-world capability of your tool with **summaries from three diverse websites**. This will give readers a clear and immediate understanding of the tool’s power.
+
+### 🔴 [UFC.com](https://www.ufc.com)
+
+> **Comprehensive coverage of MMA events and fighters**
+
+* Details about upcoming/past events and ticketing
+* VIP experiences, athlete rankings, and news
+* Exclusive content via UFC Fight Pass and media archives
+* Multi-language support and strong social presence
+
+---
+
+### 🧠 [EdwardDonner.com](https://edwarddonner.com)
+
+> **Personal brand + AI innovation insights**
+
+* Showcases work of Edward Donner (CTO of Nebula.io)
+* Offers AI workshops and LLM expert courses
+* Introduces “Outsmart”: a gamified LLM diplomacy experiment
+* Includes newsletter and social media links
+
+---
+
+### 🌍 [BBC.com](https://bbc.com)
+
+> **Global news coverage across multiple domains**
+
+* News, Sports, Innovation, Culture, Earth, Weather & more
+* Audio/video content: podcasts, live shows, YouTube
+* “Essential climate news” and newsletter subscriptions
+* Designed to keep global audiences informed 24/7
+
+
 ---
 
 ## 💼 Business Use Cases
